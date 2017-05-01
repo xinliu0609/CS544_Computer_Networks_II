@@ -1,0 +1,27 @@
+\begin{thebibliography}{1}
+
+\bibitem{SDN}
+K.~Kirkpatrick, {\it Commun. ACM\/} {\bf 56}, 16 (2013).
+
+\bibitem{openflow}
+N.~McKeown, {\it et~al.\/}, {\it SIGCOMM Comput. Commun. Rev.\/} {\bf 38}, 69
+  (2008).
+
+\bibitem{traffic}
+D.~J. Hamad, K.~G. Yalda, I.~T. Okumus, {\it Information Technology and
+  Systems\/} pp. 7--11 (2015).
+
+\bibitem{opennetmon}
+N.~L. Van~Adrichem, C.~Doerr, F.~A. Kuipers, {\it Network Operations and
+  Management Symposium (NOMS), 2014 IEEE\/} (IEEE, 2014), pp. 1--8.
+
+\bibitem{mininet}
+N.~Handigol, B.~Heller, V.~Jeyakumar, B.~Lantz, N.~McKeown, {\it Proceedings of
+  the 8th international conference on Emerging networking experiments and
+  technologies\/} (ACM, 2012), pp. 253--264.
+
+\bibitem{iperf}
+C.-H. Hsu, U.~Kremer, {\it Workshop on Profile and Feedback-Directed
+  Compilation (PFDC), Paris, France\/} (Citeseer, 1998).
+
+\end{thebibliography}
